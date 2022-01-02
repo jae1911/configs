@@ -1,0 +1,86 @@
+{
+    "com.github.mastdiekin.ulauncher-pypi-search": {
+        "id": "com.github.mastdiekin.ulauncher-pypi-search",
+        "url": "https://github.com/mastdiekin/ulauncher-pypi-search",
+        "updated_at": "2022-01-01T08:11:57.229310",
+        "last_commit": "3527a6c21b212ba2dac83824d107f1cc15a29971",
+        "last_commit_time": "2022-01-01T02:42:56"
+    },
+    "com.github.leogouveia.ulauncher-npmjs": {
+        "id": "com.github.leogouveia.ulauncher-npmjs",
+        "url": "https://github.com/leogouveia/ulauncher-npmjs",
+        "updated_at": "2022-01-01T08:12:07.997248",
+        "last_commit": "d0cac29b68c9fbf3d85095f466a4a3801dc48cfb",
+        "last_commit_time": "2021-12-31T11:40:55"
+    },
+    "com.github.rootwork.ulauncher-symbol": {
+        "id": "com.github.rootwork.ulauncher-symbol",
+        "url": "https://github.com/rootwork/ulauncher-symbol",
+        "updated_at": "2022-01-01T08:13:01.717881",
+        "last_commit": "8a580616039acc8e24c9f3b4c534cb2afc3b7107",
+        "last_commit_time": "2021-10-26T04:05:08"
+    },
+    "com.github.tchar.ulauncher-albert-calculate-anything": {
+        "id": "com.github.tchar.ulauncher-albert-calculate-anything",
+        "url": "https://github.com/tchar/ulauncher-albert-calculate-anything",
+        "updated_at": "2022-01-01T08:13:20.493389",
+        "last_commit": "ee0903174c8b87cd1f7c3b6c1acef10702547507",
+        "last_commit_time": "2021-08-12T06:39:56"
+    },
+    "com.github.fajtak.ulauncher-weather": {
+        "id": "com.github.fajtak.ulauncher-weather",
+        "url": "https://github.com/fajtak/ulauncher-weather",
+        "updated_at": "2022-01-01T08:14:43.876624",
+        "last_commit": "d87a90a318646bdf81efa1a71392f300f45f8d5b",
+        "last_commit_time": "2021-08-12T08:03:26"
+    },
+    "com.github.brpaz.ulauncher-folder-search": {
+        "id": "com.github.brpaz.ulauncher-folder-search",
+        "url": "https://github.com/brpaz/ulauncher-folder-search",
+        "updated_at": "2022-01-01T08:18:47.984352",
+        "last_commit": "a1b08cf75910eaa4c70c041de0f56cf7446bf05a",
+        "last_commit_time": "2021-12-12T15:46:24"
+    },
+    "com.github.rnairn01.ulauncher-meme-my-text": {
+        "id": "com.github.rnairn01.ulauncher-meme-my-text",
+        "url": "https://github.com/RNairn01/ulauncher-meme-my-text",
+        "updated_at": "2022-01-01T08:19:11.480668",
+        "last_commit": "5d62830a7a92983a731e15645831f53d48dad913",
+        "last_commit_time": "2021-05-07T17:29:22"
+    },
+    "com.github.ulauncher.ulauncher-emoji": {
+        "id": "com.github.ulauncher.ulauncher-emoji",
+        "url": "https://github.com/Ulauncher/ulauncher-emoji",
+        "updated_at": "2022-01-01T08:23:50.938180",
+        "last_commit": "4c6af50d1c9a24d5aad2c597634ff0c634972a5c",
+        "last_commit_time": "2021-08-08T19:19:59"
+    },
+    "com.github.manahter.ulauncher-ip-analysis": {
+        "id": "com.github.manahter.ulauncher-ip-analysis",
+        "url": "https://github.com/manahter/ulauncher-IP-Analysis",
+        "updated_at": "2022-01-01T14:20:03.755631",
+        "last_commit": "ea408404cd5c860664e770bd49c03fcaa3681116",
+        "last_commit_time": "2021-12-29T16:25:34"
+    },
+    "com.github.rkarami.ulauncher-password-generator": {
+        "id": "com.github.rkarami.ulauncher-password-generator",
+        "url": "https://github.com/rkarami/ulauncher-password-generator",
+        "updated_at": "2022-01-01T14:36:10.385395",
+        "last_commit": "dd835041f81a0821e6398d3ab817847d93af615f",
+        "last_commit_time": "2019-09-27T21:34:17"
+    },
+    "com.github.brpaz.ulauncher-statuspages": {
+        "id": "com.github.brpaz.ulauncher-statuspages",
+        "url": "https://github.com/brpaz/ulauncher-statuspages",
+        "updated_at": "2022-01-01T14:36:55.295503",
+        "last_commit": "78a12a3575be04349986d5fb37084ec18906c1af",
+        "last_commit_time": "2021-12-12T15:48:42"
+    },
+    "com.github.nastuzzisamy.ulauncher-youtube-search": {
+        "id": "com.github.nastuzzisamy.ulauncher-youtube-search",
+        "url": "https://github.com/NastuzziSamy/ulauncher-youtube-search",
+        "updated_at": "2022-01-01T14:37:39.236227",
+        "last_commit": "fe855811358b2f15ec6ed69ca18e20639874fa28",
+        "last_commit_time": "2021-03-27T11:29:18"
+    }
+}
