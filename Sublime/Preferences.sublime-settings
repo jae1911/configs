@@ -1,0 +1,26 @@
+{
+	"font_size": 14,
+	"font_face": "Iosevka",
+	"font_options": [
+		"dlig",
+		"ss01",
+		"gray_antialias",
+		"subpixel_antialias",
+	],
+	"line_padding_top": "1",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"ensure_newline_at_eof_on_save": true,
+	"translate_tabs_to_sapces": true,
+	"spell_check": true,
+	"ident_to_bracket": true,
+	"auto_close_tags": true,
+	"highlight_line": true,
+	"block_caret": true,
+	"higlight_modified_tabs": true,
+	"show_encoding": true,
+	"hardware_acceleration": "opengl",
+	"remember_full_screen": true,
+}
