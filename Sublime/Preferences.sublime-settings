@@ -1,5 +1,5 @@
 {
-	"font_size": 14,
+	"font_size": 13,
 	"font_face": "Iosevka",
 	"font_options": [
 		"dlig",
@@ -13,7 +13,7 @@
 		"Vintage",
 	],
 	"ensure_newline_at_eof_on_save": true,
-	"translate_tabs_to_sapces": true,
+	"translate_tabs_to_spaces": true,
 	"spell_check": true,
 	"ident_to_bracket": true,
 	"auto_close_tags": true,
@@ -23,4 +23,6 @@
 	"show_encoding": true,
 	"hardware_acceleration": "opengl",
 	"remember_full_screen": true,
+	"color_scheme": "ayu-mirage.sublime-color-scheme",
+	"theme": "ayu-mirage.sublime-theme",
 }
